@@ -1,4 +1,3 @@
-# Heading 1 #
-PYTHON
+# PYTHON #
 
-This is my sandpit Python repo full project idea's and unfinished experiments. 
+This is my sandpit Python repo full project idea's and unfinished experiments.
